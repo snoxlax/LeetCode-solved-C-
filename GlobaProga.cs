@@ -18,8 +18,11 @@ namespace Solutions
             Console.WriteLine("\n=== RomanToInteger ===");
             RomanToInteger.Program.Run();
 
-            Console.WriteLine("\n=== Fibonacci ===");
-            Fibonacci.Program.Run();
+            // Console.WriteLine("\n=== Fibonacci ===");
+            // Fibonacci.Program.Run();
+            
+            Console.WriteLine("\n=== Valid Parentheses ===");
+            ValidParentheses.Program.Run();
 
             Console.WriteLine("\nAll solutions executed.");
         }
